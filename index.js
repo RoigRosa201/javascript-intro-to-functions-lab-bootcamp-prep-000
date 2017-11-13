@@ -3,5 +3,5 @@ return string.toUpperCase()
 }
 
 function whisper(string) {
-return string.allLowerCase()
+return string.toLowerCase()
 }
