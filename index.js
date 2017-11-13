@@ -3,7 +3,7 @@ return string.toUpperCase()
 }
 
 function whisper(string) {
-return string.allLowerCase(string)
+return allLowerCase(string)
 }
 
 function allLowerCase(string) {
